@@ -1,6 +1,10 @@
 
 
-https://user-images.githubusercontent.com/79215534/127521018-21624536-0554-422a-ac96-1b942599d46e.mp4
+
+
+https://user-images.githubusercontent.com/79215534/127521292-25239179-ffb0-4bd6-87f8-fbc3dbc34230.mp4
+
+
 
 ![Zeichenfläche 1](https://user-images.githubusercontent.com/79215534/127516671-77150862-6091-4a21-9cdd-ea961e0db28b.png)
 # Covid-19 App Updater
