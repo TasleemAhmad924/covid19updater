@@ -4,3 +4,7 @@ Mit dieser App, die in der Programmiersprache Dart geschrieben wurde, können Si
 
 Die App können Sie nur für Android herunterladen unter dem folgenden Link: https://www.mediafire.com/file/he2dumuidd764lx/app-release_signed.apk/file
 
+Bei Fragen und Problemen kontaktieren Sie mich unter der folgende E-Mail-Adresse: tasleem@tuta.io
+
+
+Copyright Tasleem Ahmad / Established 2021
